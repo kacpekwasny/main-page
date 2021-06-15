@@ -27,6 +27,20 @@ body .unscrollable-bg {
   z-index: -999;
 }
 
+.choose-lang {
+  position: absolute;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: row;
+      flex-wrap: row;
+}
+
+.choose-lang .lang {
+  padding: .3em;
+  text-shadow: 0 0 1px black;
+}
+
 .choose-sector {
   margin: auto;
   display: -webkit-box;

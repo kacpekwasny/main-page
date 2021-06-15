@@ -31,6 +31,17 @@ body {
     
 }
 
+.choose-lang {
+    position: absolute;
+    display: flex;
+    flex-wrap: row;
+
+    .lang {
+        padding: .3em;
+        text-shadow: 0 0 1px black;
+    }
+}
+
 .choose-sector {
     margin: auto;
     display: flex;
