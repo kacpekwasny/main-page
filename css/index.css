@@ -13,6 +13,13 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-height: 100vh;
 }
 
 body .unscrollable-bg {
@@ -20,15 +27,19 @@ body .unscrollable-bg {
   background-size: 400% 400%;
   -webkit-animation: bg-grad 15s ease infinite;
           animation: bg-grad 15s ease infinite;
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
   overflow: hidden;
-  position: absolute;
+  position: fixed;
+  top: 0;
+  left: 0;
   z-index: -999;
 }
 
 .choose-lang {
-  position: absolute;
+  position: fixed;
+  top: 0;
+  left: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -42,7 +53,7 @@ body .unscrollable-bg {
 }
 
 .choose-sector {
-  margin: auto;
+  padding: 3em 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -54,7 +65,6 @@ body .unscrollable-bg {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 100vh;
 }
 
 .choose-sector .sector {
