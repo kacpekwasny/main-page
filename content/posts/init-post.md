@@ -1,14 +1,12 @@
 ---
-title: "My First Post"
+title: "Kacper's First Post"
 date: 2025-03-15
 draft: false
+description: "smth smth"
 ---
 
-## Hello World!
+## Hey you!
 
-This is my **first post** using Hugo and the Ananke theme!
-
-- I can write in Markdown
-- It’s automatically turned into a blog post
-- Don’t forget to keep playing around!
+- fact: this is my initial post
+- fact: i dont care
 

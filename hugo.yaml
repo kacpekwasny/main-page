@@ -1,0 +1,91 @@
+baseURL: 'https://kwasnyy.pl/'
+languageCode: 'en-us'
+title: 'kwasnyy.pl'
+theme: 'not-much'
+timeZone: "Europe/Warsaw"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 40
+
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
+
+pagination:
+  pageSize: 10
+
+taxonomies:
+  tag: "tags"
+  author: "Kacper Kwaśny"
+
+indexes:
+  tag: "tags"
+
+markup:
+  defaultMarkdownHandler: "goldmark"
+  goldmark:
+
+    # Enable or disable smartypants (automatic conversion of ASCII punctuation to smart punctuation)
+    smartypants: true
+
+    # Enable or disable fractions (automatic conversion of fractions)
+    fractions: true
+
+    # Enable or disable superscript and subscript support
+    # (enable to allow ^ and ~ for superscript and subscript)
+    superscript: true
+    unsafe: true
+
+    # ignoreFiles:
+  # # - "themes/terminal/content.old"
+  # - "themes/terminal/content"
+
+outputs:
+  # blog:
+  #   - HTML
+  #   - RSS
+  #   - sitemap-blog.xml
+  home:
+    - HTML
+    - RSS
+    # - sitemap.xml
+
+params:
+  disqus: "mydisquscode"
+  theme: "dark"
+  palette: "catpuccin"
+  showThemeNotice: false
+  showPostsSummary: true
+
+  social:
+    - name: github
+      url: https://github.com/kacpekwasny
+
+    - name: linkedin
+      url: https://linkedin.com/in/myusername
+
+
+module:
+  hugoVersion:
+    extended: false
+    min: "0.116.0"

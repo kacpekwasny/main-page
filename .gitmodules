@@ -4,3 +4,18 @@
 [submodule "themes/nightfall"]
 	path = themes/nightfall
 	url = https://github.com/lordmathis/hugo-theme-nightfall
+[submodule "themes/cyberscape"]
+	path = themes/cyberscape
+	url = https://github.com/isaksolheim/cyberscape.git
+[submodule "themes/ficurinia"]
+	path = themes/ficurinia
+	url = https://gitlab.com/gabmus/hugo-ficurinia.git
+[submodule "themes/photophobia"]
+	path = themes/photophobia
+	url = git@github.com:setsevireon/photophobia.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = git@github.com:techbarrack/terminal-hugo-theme.git
+[submodule "themes/not-much"]
+	path = themes/not-much
+	url = git@github.com:imgios/not-much.git
