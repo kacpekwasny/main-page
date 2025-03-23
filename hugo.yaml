@@ -1,7 +1,7 @@
 baseURL: 'https://kwasnyy.pl/'
 languageCode: 'en-us'
 title: 'kwasnyy.pl'
-theme: 'not-much'
+theme: 'panr-terminal'
 timeZone: "Europe/Warsaw"
 
 menu:
@@ -20,11 +20,6 @@ menu:
       name: Posts
       url: /posts/
       weight: 40
-
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 50
 
     - identifier: contact
       name: Contact
@@ -76,6 +71,13 @@ params:
   palette: "catpuccin"
   showThemeNotice: false
   showPostsSummary: true
+
+  # archie:
+  mode: dark
+
+  # risotto:
+  theme:
+    palette: dracula
 
   social:
     - name: github

@@ -15,7 +15,19 @@
 	url = git@github.com:setsevireon/photophobia.git
 [submodule "themes/terminal"]
 	path = themes/terminal
-	url = git@github.com:techbarrack/terminal-hugo-theme.git
+	url = git@github.com:panr/hugo-theme-terminal.git
 [submodule "themes/not-much"]
 	path = themes/not-much
 	url = git@github.com:imgios/not-much.git
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = git@github.com:joeroe/risotto.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = git@github.com:athul/archie.git
+[submodule "themes/panr-terminal"]
+	path = themes/panr-terminal
+	url = git@github.com:panr/hugo-theme-terminal.git
+[submodule "themes/github"]
+	path = themes/github
+	url = git@github.com:MeiK2333/github-style.git

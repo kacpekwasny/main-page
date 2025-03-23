@@ -3,32 +3,30 @@ title: "About Me"
 date: 2025-03-15
 layout: "single"
 draft: false
-description: "{{ .Title }}"
+description: "facts about me"
+tags:
+- general
 ---
 
-# education
+## education
 i've finished bachelors ict
 
-# what I like
+## work
+view page [work](/work)
 
-sport
-- hiking
+## what i like
+
+- hiking and walks
 - volleyball
 - working out
-- sking
+- skiing
+- cycling
 
-it (more in section [my work](#work))
-- datacenter networking
+- networking
 - coding
 
-
-learning and culture
-- science
+- science and math
 - history
-- museums
 - watching best movies of all time
 
-
-# my work
-
-here is a bit about what i do
+- gardens and parks

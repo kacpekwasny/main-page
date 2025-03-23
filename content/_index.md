@@ -1,15 +1,18 @@
 ---
-title: "Home"
+title: "home"
 date: 2024-03-28T15:00:00+00:00
 draft: false
 layout: "single"
-description: "{{ .Title }}"
+description: "My Title"
+tags:
+- general
 ---
-> Era of LLM's inspired me to create my own blog. It will be full of my thoughts, of my experience and real knowledge.
 
-Info about me is [here](/about/).
+things:
+- [about me](/about/)
+- [work / experience](/work/)
 
-This page was created in 2025, inspired by era of LLMs.
-Since all information can be searched through...
+this page was created in 2025, inspired by era of llms - since all information can be searched through...
 it might make sense to make personal websites that contain real knowledge, from real experiences.
 
+i wish to create notes as an effort to keep real knowledge in the public domain.
