@@ -21,11 +21,6 @@ the overlay network provides connectivity for the virtual machines and the virtu
 
 we work with opensource bgp daemons: gobgp and frr.
 
-{{< code language="go" title="cool snippet" open="true" >}}
-func main() {
-    fmt.Println("hello world!")
-}
-{{< /code >}}
 
 ---
 # aiseemo
