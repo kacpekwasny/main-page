@@ -12,4 +12,4 @@ COPY static/ ./static/
 EXPOSE 1313
 
 # Run Hugo in server mode with live reload and bind to all interfaces
-CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313", "--disableFastRender", "--watch"]
+CMD ["server", "--bind", "0.0.0.0", "--port", "1313", "--disableFastRender", "--watch"]
