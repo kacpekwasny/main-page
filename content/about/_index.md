@@ -2,25 +2,32 @@
 title: "About Me"
 date: 2025-03-15
 layout: "single"
-draft: false
 description: "facts about me"
 tags:
 - general
 ---
 
-## education
-i've finished bachelors ict
+## Education
 
-## work
-view page [work](/work)
+College: Information and Communication Technologies
+<br>
+Highschool: A vocational school also majoring in ICT.
 
-## what i like
 
-- hiking and walks
+## Work
+
+View page [work](/work)
+
+<!--
+
+## What I do, what I like
+
+- hiking and walks, no matter the weather, nor the distance
 - volleyball
 - working out
 - skiing
 - cycling
+- sailing (recently found out how awesome it is)
 
 - networking
 - coding
@@ -28,5 +35,8 @@ view page [work](/work)
 - science and math
 - history
 - watching best movies of all time
+- and reading best boooks (although I also often listen to audiobooks)
 
-- gardens and parks
+- gardens and parks (i hope to have a )
+
+-->

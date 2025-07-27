@@ -10,22 +10,22 @@ tags:
 
 
 ---
-# akamai
+# Akamai
 
-since may 2024.
+Since May 2024.
 
-development of networking software running in linode datacenter networks.
+Development of networking software running in Linode datacenters.
 
-my team is responsible for the control plane of the overlay network.
-the overlay network provides connectivity for the virtual machines and the virtual private cloud.
+My team is responsible for the control plane of the overlay network.
+The overlay network provides connectivity for the virtual machines and networking products.
 
-we work with opensource bgp daemons: gobgp and frr.
+We work with opensource BGP daemons: GoBgp and FRR.
 
 
 ---
-# aiseemo
+# AiSeeMo
 
-since july 2022 until december 2023 (worked half time).
+Since July 2022 until December 2023 (worked half-time).
 
-training superresolution, validating and testing detection algorithms.
+Training superresolution of license plates, validating and testing detection algorithms.
 
