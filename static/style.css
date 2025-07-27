@@ -13,3 +13,23 @@ ul {
   margin: 0 auto;
   border: none;
 }
+
+
+/* Make tags smaller and less prominent */
+.post-tags {
+  font-size: 0.75rem !important;
+  color: color-mix(in srgb, var(--foreground) 50%, transparent) !important;
+  margin-bottom: 10px !important;
+}
+
+.post-tags a {
+  color: color-mix(in srgb, var(--foreground) 60%, transparent) !important;
+  text-decoration: none;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.post-tags a:hover {
+  opacity: 1;
+  color: var(--accent) !important;
+}
