@@ -6,3 +6,10 @@ p {
 ul {
 	margin-top: 0;
 }
+
+
+/* Center the main container */
+.container {
+  margin: 0 auto;
+  border: none;
+}
