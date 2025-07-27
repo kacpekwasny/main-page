@@ -3,9 +3,10 @@ title: "My work"
 date: 2025-03-02T15:00:00+00:00
 layout: "single"
 tags: 
+- general
 - akamai
 - aiseemo
-- work
+
 ---
 
 

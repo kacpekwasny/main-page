@@ -9,9 +9,8 @@ tags:
 
 ## Education
 
-College: Information and Communication Technologies
-<br>
-Highschool: A vocational school also majoring in ICT.
+College: Information and Communications Technology  \
+Highschool: A vocational school also majoring in ICT
 
 
 ## Work

@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: "Home"
 date: 2024-03-28T15:00:00+00:00
 draft: false
 layout: "single"
@@ -8,9 +8,9 @@ tags:
 - general
 ---
 
-things:
-- [about me](/about/)
-- [work / experience](/work/)
+Pages:
+- [About Me](/about/)
+- [Work experience](/work/)
 
 
 This page was created in 2025, inspired by era of LLMs. Since all information can be searched through...
