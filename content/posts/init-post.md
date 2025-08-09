@@ -9,5 +9,4 @@ description: "smth smth"
 ## Hey you!
 
 - fact: this is my initial post
-- fact: i dont care
 
