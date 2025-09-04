@@ -13,15 +13,11 @@ tags:
 ---
 # Akamai
 
-Since May 2024.
-
-Development of networking software running in Linode datacenters.
-
-My team is responsible for the control plane of the overlay network.
-The overlay network provides connectivity for the virtual machines and networking products.
-
-We work with opensource BGP daemons: GoBgp and FRR.
-
+Since May 2024,
+- Architecture of the overlay networking design,
+- Development and patches of opensource BGP software (gobgp and frr),
+- Observability of networking daemons, and of the state of the network,
+- The overlay network provides connectivity for the virtual machines and networking products.
 
 ---
 # AiSeeMo

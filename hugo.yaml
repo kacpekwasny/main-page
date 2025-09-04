@@ -17,10 +17,10 @@ menu:
       url: /about/
       weight: 20
 
-#     - identifier: posts
-#       name: Posts
-#       url: /posts/
-#       weight: 40
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 40
 
     - identifier: contact
       name: Contact

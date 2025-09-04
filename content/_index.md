@@ -10,11 +10,12 @@ tags:
 
 Pages:
 - [About Me](/about/)
-- [Work experience](/work/)
+- [Work Experience](/work/)
+- [Things I Learn](/work/thingsilearn)
 
 
 This page was created in 2025, inspired by era of LLMs. Since all information can be searched through...
 it might make sense to make personal websites that contain real knowledge, from real experiences.
-Because now more than ever it might actually reach and help someone.
+Because now more than ever it might actually reach and help someone!
 
 I wish to create notes as an effort to keep real knowledge in the public domain.

@@ -9,9 +9,12 @@ the best learning resources
 
 
 general it:
--  
+- 
+
+networking:
+- 
 
 cybersec / pentesting:
-- liveoverflow yt
-- pwned
+- yt: liveoverflow
+- yt: pwned
 
