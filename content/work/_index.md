@@ -6,7 +6,8 @@ tags:
 - general
 - akamai
 - aiseemo
-
+- bgp
+- networking
 ---
 
 
@@ -14,10 +15,9 @@ tags:
 # Akamai
 
 Since May 2024,
-- Architecture of the overlay networking design,
+- Architecture and engineering of the datacenterl overlay networking,
 - Development and patches of opensource BGP software (gobgp and frr),
 - Observability of networking daemons, and of the state of the network,
-- The overlay network provides connectivity for the virtual machines and networking products.
 
 ---
 # AiSeeMo

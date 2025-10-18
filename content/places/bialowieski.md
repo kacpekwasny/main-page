@@ -1,8 +1,8 @@
 ---
-title: "Bialowieski"
+title: "Białowieski"
 date: 2025-10-18T13:17:08+02:00
 draft: false
-description: "Krótko o Białowieskim i kilka zdjęć."
+description: "O Białowieskim PN i kilka zdjęć."
 tags: ["pl", "bialowieski", "park-narodowy"]
 ---
 
