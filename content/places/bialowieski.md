@@ -1,7 +1,7 @@
 ---
 title: "Bialowieski"
 date: 2025-10-18T13:17:08+02:00
-draft: true
+draft: false
 ---
 
 ![](/img/IMG20250507140254.jpg)

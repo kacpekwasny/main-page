@@ -1,18 +1,19 @@
 ---
-title: "resources"
+title: "IT Resources"
 created: "2025-03-23"
-description: "links to best learning resources"
-draft: true
+description: "Links to best learning resources"
+draft: false
+tags: ["it", "en"]
 ---
 
-the best learning resources
+Collection of geart IT resources, Yt channels, (books if I'll ever read any).
 
 
 general it:
-- 
+- ...
 
 networking:
-- 
+- ...
 
 cybersec / pentesting:
 - yt: liveoverflow

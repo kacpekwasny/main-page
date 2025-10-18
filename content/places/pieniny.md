@@ -1,7 +1,7 @@
 ---
 title: "Pieniny"
 date: 2025-10-18T13:00:08+02:00
-draft: true
+draft: false
 ---
 
 ![](/img/IMG20250501141807.jpg)

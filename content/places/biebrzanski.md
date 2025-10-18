@@ -1,7 +1,7 @@
 ---
 title: "Biebrzanski"
 date: 2025-10-18T13:26:33+02:00
-draft: true
+draft: false
 ---
 
 ![](/img/IMG20250510111437.jpg)

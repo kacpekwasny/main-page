@@ -1,7 +1,7 @@
 ---
 title: "Bieszczady"
 date: 2025-10-18T12:40:29+02:00
-draft: true
+draft: false
 ---
 
 ![](/img/IMG20250331164018.jpg)
