@@ -1,7 +1,7 @@
 ---
 title: "Places"
 created: "2025-03-23"
-description: "links to best learning resources"
+description: "Link to my subpage listing pages about different places."
 draft: false
 tags: ["en"]
 ---
