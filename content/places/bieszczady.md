@@ -2,6 +2,8 @@
 title: "Bieszczady"
 date: 2025-10-18T12:40:29+02:00
 draft: false
+description: "Krótko o Bieszczadach i kilka zdjęć."
+tags: ["pl", "bieszczady", "park-narodowy"]
 ---
 
 ![](/img/IMG20250331164018.jpg)

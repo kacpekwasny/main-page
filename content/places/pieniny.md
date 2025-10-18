@@ -2,6 +2,8 @@
 title: "Pieniny"
 date: 2025-10-18T13:00:08+02:00
 draft: false
+description: "Krótko o Pieninach i kilka zdjęć."
+tags: ["pl", "pieniny", "park-narodowy"]
 ---
 
 ![](/img/IMG20250501141807.jpg)

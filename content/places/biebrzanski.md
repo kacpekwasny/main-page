@@ -2,6 +2,8 @@
 title: "Biebrzanski"
 date: 2025-10-18T13:26:33+02:00
 draft: false
+description: "Krótko o Biebrzańskim i kilka zdjęć."
+tags: ["pl", "biebrzanski", "park-narodowy"]
 ---
 
 ![](/img/IMG20250510111437.jpg)
