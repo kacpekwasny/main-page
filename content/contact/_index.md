@@ -7,4 +7,7 @@ tags:
 - general
 ---
 
-email: kwasny.kg@gmail.com
+
+Email: kwasny.kg@gmail.com
+
+LinkedIn: [linkedin.com/in/kacper-kwasny/](https://www.linkedin.com/in/kacper-kwasny/)
