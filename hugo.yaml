@@ -52,19 +52,10 @@ markup:
     superscript: true
     unsafe: true
 
-    # ignoreFiles:
-  # # - "themes/terminal/content.old"
-  # - "themes/terminal/content"
-
 outputs:
-  # blog:
-  #   - HTML
-  #   - RSS
-  #   - sitemap-blog.xml
   home:
     - HTML
     - RSS
-    # - sitemap.xml
 
 params:
   disqus: "mydisquscode"
@@ -73,10 +64,8 @@ params:
   showThemeNotice: false
   showPostsSummary: true
 
-  # archie:
   mode: dark
 
-  # risotto:
   theme:
     palette: dracula
 
@@ -87,8 +76,12 @@ params:
     - name: linkedin
       url: https://linkedin.com/in/myusername
 
+languages:
+  en:
+    params:
+      logo:
+        logoText: kwasnyy
 
 module:
   hugoVersion:
-    extended: false
     min: "0.116.0"
